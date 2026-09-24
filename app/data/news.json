@@ -1,5 +1,38 @@
 [
   {
+    "id": "family-minimax-yue2",
+    "date": "2026-09-24",
+    "title": {
+      "en": "🎵 New in the studio family: MiniMax Music3 Studio and YuE2 Studio",
+      "ru": "🎵 В семействе студий пополнение: MiniMax Music3 Studio и YuE2 Studio",
+      "zh": "🎵 工作室家族新成员：MiniMax Music3 Studio 和 YuE2 Studio",
+      "ja": "🎵 スタジオファミリーに新メンバー：MiniMax Music3 Studio と YuE2 Studio",
+      "ko": "🎵 스튜디오 패밀리에 새 식구: MiniMax Music3 Studio와 YuE2 Studio"
+    },
+    "body": {
+      "en": "ACE-Step Studio now has two siblings. Both are native Windows apps: one exe, a C++ engine, no Python.\n\n• MiniMax Music3 Studio grew out of ACE-Step Studio and runs MiniMax Music 3, locally or in the cloud.\n• YuE2 Studio runs YuE2, the open model from M-A-P that writes a song as a score first and then sings it. You can open the score, fix it and sing the same composition again. It also makes covers from a recording, karaoke clips and stems, from 6 GB of VRAM.",
+      "ru": "У ACE-Step Studio появились две сестры. Обе - нативные приложения для Windows: один exe, движок на C++, без Python.\n\n• MiniMax Music3 Studio выросла из ACE-Step Studio и работает с MiniMax Music 3 локально или в облаке.\n• YuE2 Studio работает с YuE2 - открытой моделью от M-A-P, которая сначала пишет песню нотами, а потом поёт её. Партитуру можно открыть, поправить и перепеть ту же композицию. Ещё там есть каверы по записи, караоке-клипы и разбор на дорожки, а работает она от 6 ГБ видеопамяти.",
+      "zh": "ACE-Step Studio 有了两个兄弟姐妹。它们都是原生 Windows 应用：一个 exe、C++ 引擎、无需 Python。\n\n• MiniMax Music3 Studio 由 ACE-Step Studio 发展而来，可在本地或云端运行 MiniMax Music 3。\n• YuE2 Studio 运行 M-A-P 的开源模型 YuE2：它先把歌曲写成乐谱，再把它唱出来。你可以打开乐谱、修改后重新演唱同一首作品。它还支持根据录音翻唱、卡拉 OK 视频和分轨，6 GB 显存即可运行。",
+      "ja": "ACE-Step Studio に 2 つの姉妹アプリができました。どちらも Windows ネイティブアプリです：exe ひとつ、C++ エンジン、Python 不要。\n\n• MiniMax Music3 Studio は ACE-Step Studio から生まれ、MiniMax Music 3 をローカルまたはクラウドで動かします。\n• YuE2 Studio は M-A-P のオープンモデル YuE2 を動かします。YuE2 はまず曲を楽譜として書き、それから歌います。楽譜を開いて直し、同じ曲を歌い直せます。録音からのカバー、カラオケ動画、ステム分離にも対応し、VRAM 6 GB から動きます。",
+      "ko": "ACE-Step Studio에 자매 앱이 둘 생겼습니다. 둘 다 Windows 네이티브 앱입니다: exe 하나, C++ 엔진, Python 불필요.\n\n• MiniMax Music3 Studio는 ACE-Step Studio에서 파생되었으며 MiniMax Music 3를 로컬 또는 클라우드에서 실행합니다.\n• YuE2 Studio는 M-A-P의 오픈 모델 YuE2를 실행합니다. YuE2는 먼저 곡을 악보로 쓰고 그다음 노래합니다. 악보를 열어 고치고 같은 곡을 다시 부르게 할 수 있습니다. 녹음 기반 커버, 가라오케 영상, 스템 분리도 지원하며 VRAM 6GB부터 동작합니다."
+    },
+    "tags": [
+      "MiniMax",
+      "YuE2",
+      "family"
+    ],
+    "links": [
+      {
+        "label": "MiniMax Music3 Studio",
+        "url": "https://github.com/timoncool/MiniMax-Music3-Studio"
+      },
+      {
+        "label": "YuE2 Studio",
+        "url": "https://github.com/timoncool/YuE2-Studio"
+      }
+    ]
+  },
+  {
     "id": "openrouter-pollinations-cover-regen-2026-05-05",
     "date": "2026-05-05",
     "title": {
